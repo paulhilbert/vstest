@@ -1,0 +1,9 @@
+[package]
+name = "vstest"
+version = "0.1.0"
+authors = ["Paul Hilbert <me@sicgraph.org>"]
+edition = "2018"
+
+[dependencies]
+#vulkano-shaders = { path = "./vulkano-shaders" }
+vulkano-shaders="0.10.0"
